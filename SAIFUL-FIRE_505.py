@@ -1,2 +1,2 @@
 import any
-any.menu
+any.menu()
