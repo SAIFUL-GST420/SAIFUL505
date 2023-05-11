@@ -1,2 +1,1 @@
-import any
-any.menu()
+import update
