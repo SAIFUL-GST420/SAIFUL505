@@ -1,3 +1,3 @@
 import saiful
-file.menu()
+saiful.menu()
 
