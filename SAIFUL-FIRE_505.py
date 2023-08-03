@@ -17,7 +17,7 @@ if bit=='64bit':
     time.sleep(2)
 
     import update64
-
+    update64.menu()
 elif bit=='32bit':
 
     print("\n \033[1;91m[\033[1;92m✔\033[1;91m]\033[1;92m Your Device \033[1;91m32\033[1;92m Bit Supported this Tool Enjoy.....")
@@ -27,7 +27,7 @@ elif bit=='32bit':
     time.sleep(2)
 
     import update32
-
+    update32.menu()
 else:
 
     print('\033[1;31m[\033[1;92m×\033[1;91m] No Internet Connection !!!!!')
